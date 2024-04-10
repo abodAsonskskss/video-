@@ -1,0 +1,11 @@
+body{
+    height: 100%;
+    
+color: black;
+    overflow: hidden;
+    background-color: cyan;
+}
+video{
+    height: 96%;
+    width: 101%;
+}
